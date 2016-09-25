@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E89C928-8687-4256-80C4-A41D9A0C195C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KURTKA</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AA60DCDAA725299391C4A6279FA4379C7B4858EB</key>
+		<string>https://github.com/AlexTerekhoff/KURTKA.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KURTKA.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AA60DCDAA725299391C4A6279FA4379C7B4858EB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AlexTerekhoff/KURTKA.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AA60DCDAA725299391C4A6279FA4379C7B4858EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA60DCDAA725299391C4A6279FA4379C7B4858EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KURTKA</string>
+		</dict>
+	</array>
+</dict>
+</plist>
